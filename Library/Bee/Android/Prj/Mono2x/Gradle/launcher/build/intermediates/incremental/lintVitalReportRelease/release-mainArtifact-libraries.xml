@@ -1,0 +1,45 @@
+<libraries>
+  <library
+      name="/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+      jars="/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/6ec1681bd50e52ad9e2ae04dc55cbdbc/transformed/out/jars/classes.jar:/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/6ec1681bd50e52ad9e2ae04dc55cbdbc/transformed/out/jars/libs/unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/6ec1681bd50e52ad9e2ae04dc55cbdbc/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+      jars="/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar"
+      resolved="__local_aars__:/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified"/>
+  <library
+      name=":OVRPlugin:@aar"
+      jars="/Users/ozabramovich/.gradle/caches/transforms-3/73fc14940d732a79bf843009165548dd/transformed/OVRPlugin/jars/classes.jar"
+      resolved=":OVRPlugin:"
+      folder="/Users/ozabramovich/.gradle/caches/transforms-3/73fc14940d732a79bf843009165548dd/transformed/OVRPlugin"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/f6fd835d1309287a786958e7231ac631/transformed/out/jars/classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/f6fd835d1309287a786958e7231ac631/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

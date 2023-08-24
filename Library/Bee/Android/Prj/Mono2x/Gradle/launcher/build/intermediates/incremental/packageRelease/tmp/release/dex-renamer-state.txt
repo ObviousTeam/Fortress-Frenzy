@@ -1,0 +1,4 @@
+#Wed Aug 23 09:21:53 EDT 2023
+base.0=/Users/ozabramovich/Fortress Frenzy/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
